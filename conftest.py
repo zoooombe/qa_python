@@ -1,4 +1,3 @@
-# conftest.py
 import pytest
 from main import BooksCollector
 
