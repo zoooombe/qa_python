@@ -23,7 +23,6 @@ test_add_book_in_favorites_nonexistent - Проверяет невозможно
 test_add_book_in_favorites_duplicate - Проверяет невозможность повторного добавления книги в избранное
 8. Тесты для метода delete_book_from_favorites
 test_delete_book_from_favorites - Проверяет удаление книги из избранного
-test_delete_book_from_favorites_nonexistent - Проверяет удаление несуществующей книги из избранного (не должно вызывать ошибок)
 9. Тесты для метода get_list_of_favorites_books
 test_get_list_of_favorites_books - Проверяет получение списка избранных книг
 Параметризация
