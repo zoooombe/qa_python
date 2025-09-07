@@ -1,6 +1,6 @@
 class BooksCollector:
 
-    def __init__(self) -> None:
+    def __init__(self):
         self.books_genre = {}
         self.favorites = []
         self.genre = ['Фантастика', 'Ужасы', 'Детективы', 'Мультфильмы', 'Комедии']
